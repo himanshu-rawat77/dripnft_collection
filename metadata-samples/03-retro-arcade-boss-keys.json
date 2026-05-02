@@ -2,12 +2,12 @@
   "name": "Retro Arcade Boss Keys",
   "symbol": "ARCADE",
   "description": "Pixel-era boss keys as cNFTs. Collect keys across matches; metadata encodes stage tier for DRiP Royale nightmare ladders.",
-  "image": "REPLACE_ME_IMAGE_URL",
-  "external_url": "https://x.com/YOUR_HANDLE",
+  "image": "images/arcade_boss_key.png",
+  "external_url": "https://x.com/himanshurawatj",
   "seller_fee_basis_points": 250,
   "properties": {
     "category": "image",
-    "files": [{ "file": "REPLACE_ME_IMAGE_URL", "type": "image/png" }]
+    "files": [{ "file": "images/arcade_boss_key.png", "type": "image/png" }]
   },
   "attributes": [
     { "trait_type": "Collection Type", "value": "Games" },
