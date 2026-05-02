@@ -2,12 +2,12 @@
   "name": "Speedrun Tournament Tickets",
   "symbol": "SPRNT",
   "description": "Time-attack themed cNFT tickets for competitive seasons—metadata hints at bracket tier; image shows your seasonal art.",
-  "image": "REPLACE_ME_IMAGE_URL",
+  "image": "https://himanshu-rawat77.github.io/dripnft_collection/images/speedrun_tournament.png",
   "external_url": "https://x.com/YOUR_HANDLE",
   "seller_fee_basis_points": 750,
   "properties": {
     "category": "image",
-    "files": [{ "file": "REPLACE_ME_IMAGE_URL", "type": "image/png" }]
+    "files": [{ "file": "https://himanshu-rawat77.github.io/dripnft_collection/images/speedrun_tournament.png", "type": "image/png" }]
   },
   "attributes": [
     { "trait_type": "Collection Type", "value": "Games" },
