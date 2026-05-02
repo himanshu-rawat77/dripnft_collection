@@ -7,7 +7,7 @@
   "seller_fee_basis_points": 500,
   "properties": {
     "category": "image",
-    "files": [{ "file": "REPLACE_ME_IMAGE_URL", "type": "image/png" }]
+    "files": [{ "file": "images/DIOmTtqC_400x400.jpg", "type": "image/jpg" }]
   },
   "attributes": [
     { "trait_type": "Universe", "value": "DRiP Royale" },
