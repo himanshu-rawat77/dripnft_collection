@@ -2,12 +2,12 @@
   "name": "Shonen Championship Drop",
   "symbol": "SHONEN",
   "description": "Limited campaign cosmetics and reward cNFTs themed after high-energy shonen duels—built for staged solo runs and boss clears.",
-  "image": "images/shonen_championship.png",
+  "image": "https://himanshu-rawat77.github.io/dripnft_collection/images/shonen_championship.png",
   "external_url": "https://x.com/himanshurawatj",
   "seller_fee_basis_points": 0,
   "properties": {
     "category": "image",
-    "files": [{ "file": "images/shonen_championship.png", "type": "image/png" }]
+    "files": [{ "file": "https://himanshu-rawat77.github.io/dripnft_collection/images/shonen_championship.png", "type": "image/png" }]
   },
   "attributes": [
     { "trait_type": "Collection Type", "value": "Anime" },
