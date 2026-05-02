@@ -2,12 +2,12 @@
   "name": "Retro Arcade Boss Keys",
   "symbol": "ARCADE",
   "description": "Pixel-era boss keys as cNFTs. Collect keys across matches; metadata encodes stage tier for DRiP Royale nightmare ladders.",
-  "image": "images/arcade_boss_key.png",
+  "image": "https://himanshu-rawat77.github.io/dripnft_collection/images/arcade_boss_key.png"
   "external_url": "https://x.com/himanshurawatj",
   "seller_fee_basis_points": 250,
   "properties": {
     "category": "image",
-    "files": [{ "file": "images/arcade_boss_key.png", "type": "image/png" }]
+    "files": [{ "file": "https://himanshu-rawat77.github.io/dripnft_collection/images/arcade_boss_key.png", "type": "image/png" }]
   },
   "attributes": [
     { "trait_type": "Collection Type", "value": "Games" },
