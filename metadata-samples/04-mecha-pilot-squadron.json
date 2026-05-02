@@ -1,0 +1,19 @@
+{
+  "name": "Mecha Pilot Squadron",
+  "symbol": "MECHA",
+  "description": "Squad-themed reward metadata for creators who run mecha story campaigns—each mint can map to a stage win or loyalty bonus.",
+  "image": "REPLACE_ME_IMAGE_URL",
+  "external_url": "https://x.com/YOUR_HANDLE",
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "category": "image",
+    "files": [{ "file": "REPLACE_ME_IMAGE_URL", "type": "image/jpeg" }]
+  },
+  "attributes": [
+    { "trait_type": "Collection Type", "value": "Anime" },
+    { "trait_type": "Subgenre", "value": "Mecha" },
+    { "trait_type": "Unit", "value": "Squadron" },
+    { "trait_type": "NFT Type", "value": "Compressed NFT" },
+    { "trait_type": "Campaign Slot", "value": "Stage 2–3 rewards" }
+  ]
+}

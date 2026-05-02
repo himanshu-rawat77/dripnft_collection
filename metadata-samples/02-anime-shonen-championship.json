@@ -1,0 +1,19 @@
+{
+  "name": "Shonen Championship Drop",
+  "symbol": "SHONEN",
+  "description": "Limited campaign cosmetics and reward cNFTs themed after high-energy shonen duels—built for staged solo runs and boss clears.",
+  "image": "REPLACE_ME_IMAGE_URL",
+  "external_url": "https://x.com/YOUR_HANDLE",
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "category": "image",
+    "files": [{ "file": "REPLACE_ME_IMAGE_URL", "type": "image/png" }]
+  },
+  "attributes": [
+    { "trait_type": "Collection Type", "value": "Anime" },
+    { "trait_type": "Arc", "value": "Championship" },
+    { "trait_type": "Tone", "value": "Shonen" },
+    { "trait_type": "NFT Type", "value": "Compressed NFT" },
+    { "trait_type": "Use In Game", "value": "Campaign reward skin" }
+  ]
+}

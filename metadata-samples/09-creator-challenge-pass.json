@@ -1,0 +1,19 @@
+{
+  "name": "Creator Challenge Pass",
+  "symbol": "CRPASS",
+  "description": "Creator-issued pass metadata for no-code campaigns—links players to your dashboard-published run and on-chain reward tree.",
+  "image": "REPLACE_ME_IMAGE_URL",
+  "external_url": "https://x.com/YOUR_HANDLE",
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "category": "image",
+    "files": [{ "file": "REPLACE_ME_IMAGE_URL", "type": "image/png" }]
+  },
+  "attributes": [
+    { "trait_type": "Collection Type", "value": "Creator tool" },
+    { "trait_type": "Audience", "value": "Players + creators" },
+    { "trait_type": "Verification", "value": "Campaign registry" },
+    { "trait_type": "NFT Type", "value": "Compressed NFT" },
+    { "trait_type": "Purpose", "value": "Challenge access / proof" }
+  ]
+}

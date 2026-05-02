@@ -1,0 +1,19 @@
+{
+  "name": "Isekai Portal Relics",
+  "symbol": "ISEKAI",
+  "description": "Portal relic cNFTs for crossover anime campaigns—stage rewards can reference relic tier in your solo run UI.",
+  "image": "REPLACE_ME_IMAGE_URL",
+  "external_url": "https://x.com/YOUR_HANDLE",
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "category": "image",
+    "files": [{ "file": "REPLACE_ME_IMAGE_URL", "type": "image/jpeg" }]
+  },
+  "attributes": [
+    { "trait_type": "Collection Type", "value": "Anime" },
+    { "trait_type": "Trope", "value": "Isekai portal" },
+    { "trait_type": "Relic Tier", "value": "TBD in mint args" },
+    { "trait_type": "NFT Type", "value": "Compressed NFT" },
+    { "trait_type": "Chain", "value": "Solana" }
+  ]
+}

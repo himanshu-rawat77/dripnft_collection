@@ -1,0 +1,19 @@
+{
+  "name": "Nightmare Trophy — Gilded",
+  "symbol": "NMTRY",
+  "description": "Ultra-rare trophy metadata for players who clear nightmare ladders. Swap REPLACE_ME_IMAGE_URL for your gilded emblem art.",
+  "image": "REPLACE_ME_IMAGE_URL",
+  "external_url": "https://x.com/YOUR_HANDLE",
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "category": "image",
+    "files": [{ "file": "REPLACE_ME_IMAGE_URL", "type": "image/png" }]
+  },
+  "attributes": [
+    { "trait_type": "Collection Type", "value": "Trophy" },
+    { "trait_type": "Difficulty", "value": "Nightmare" },
+    { "trait_type": "Rarity", "value": "Mythic" },
+    { "trait_type": "Game Mode", "value": "Solo campaign boss" },
+    { "trait_type": "Blockchain", "value": "Solana" }
+  ]
+}

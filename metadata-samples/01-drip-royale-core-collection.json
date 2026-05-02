@@ -1,0 +1,19 @@
+{
+  "name": "DRiP Royale — Core Arena Collection",
+  "symbol": "DRIPRVL",
+  "description": "Compressed battle cards for the War of Art. Decks enter the Arena; metadata ties each asset to DRiP Royale seasons and creator campaigns.",
+  "image": "REPLACE_ME_IMAGE_URL",
+  "external_url": "https://github.com/YOUR_ORG/drip-royale-web",
+  "seller_fee_basis_points": 500,
+  "properties": {
+    "category": "image",
+    "files": [{ "file": "REPLACE_ME_IMAGE_URL", "type": "image/png" }]
+  },
+  "attributes": [
+    { "trait_type": "Universe", "value": "DRiP Royale" },
+    { "trait_type": "Asset Class", "value": "Compressed NFT" },
+    { "trait_type": "Gameplay", "value": "Arena / Campaign" },
+    { "trait_type": "Chain", "value": "Solana" },
+    { "trait_type": "Theme", "value": "Cyber-Gallery" }
+  ]
+}

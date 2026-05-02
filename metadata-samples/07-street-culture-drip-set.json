@@ -1,0 +1,19 @@
+{
+  "name": "Street Culture Drip Set",
+  "symbol": "STRT",
+  "description": "Streetwear and gallery-night vibes for DRiP-aligned drops—use as collection root or per-stage cosmetic rewards.",
+  "image": "REPLACE_ME_IMAGE_URL",
+  "external_url": "https://x.com/YOUR_HANDLE",
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "category": "image",
+    "files": [{ "file": "REPLACE_ME_IMAGE_URL", "type": "image/png" }]
+  },
+  "attributes": [
+    { "trait_type": "Collection Type", "value": "Street / gallery" },
+    { "trait_type": "Aesthetic", "value": "Gritty Cyber-Gallery" },
+    { "trait_type": "NFT Type", "value": "Compressed NFT" },
+    { "trait_type": "Utility", "value": "Cosmetic + campaign proof" },
+    { "trait_type": "Blockchain", "value": "Solana" }
+  ]
+}
