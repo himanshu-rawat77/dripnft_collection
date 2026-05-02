@@ -2,12 +2,12 @@
   "name": "Mecha Pilot Squadron",
   "symbol": "MECHA",
   "description": "Squad-themed reward metadata for creators who run mecha story campaigns—each mint can map to a stage win or loyalty bonus.",
-  "image": "images/mecha_squadran.png",
+  "image": "https://himanshu-rawat77.github.io/dripnft_collection/images/mecha_squadran.png",
   "external_url": "https://x.com/himanshurawatj",
   "seller_fee_basis_points": 0,
   "properties": {
     "category": "image",
-    "files": [{ "file": "images/mecha_squadran.png", "type": "image/jpeg" }]
+    "files": [{ "file": "https://himanshu-rawat77.github.io/dripnft_collection/images/mecha_squadran.png", "type": "image/jpeg" }]
   },
   "attributes": [
     { "trait_type": "Collection Type", "value": "Anime" },
