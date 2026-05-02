@@ -2,12 +2,12 @@
   "name": "Fantasy RPG Loot Table",
   "symbol": "LOOT",
   "description": "RPG loot table as verifiable cNFT rewards—pair with solo campaign chapters and ledger history for transparent drops.",
-  "image": "REPLACE_ME_IMAGE_URL",
-  "external_url": "https://x.com/YOUR_HANDLE",
+  "image": "images/rpg_loot_table.png",
+  "external_url": "https://x.com/himanshurawatj",
   "seller_fee_basis_points": 0,
   "properties": {
     "category": "image",
-    "files": [{ "file": "REPLACE_ME_IMAGE_URL", "type": "image/png" }]
+    "files": [{ "file": "images/rpg_loot_table.png", "type": "image/png" }]
   },
   "attributes": [
     { "trait_type": "Collection Type", "value": "Games" },
